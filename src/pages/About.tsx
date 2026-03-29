@@ -24,15 +24,15 @@ const About = () => {
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 to-transparent flex items-end p-10">
+              <div className="absolute inset-0 bg-linear-to-t from-slate-950/80 to-transparent flex items-end p-10">
                 <div className="flex items-center gap-6">
                   <div className="w-20 h-20 bg-red-600 rounded-2xl flex flex-col items-center justify-center text-white shadow-xl">
-                    <span className="text-3xl font-black leading-none">10+</span>
+                    <span className="text-3xl font-black leading-none">02+</span>
                     <span className="text-[10px] uppercase font-bold tracking-widest">Years</span>
                   </div>
                   <div className="text-white">
                     <h4 className="text-xl font-bold">Experience in IT</h4>
-                    <p className="text-white/60 text-sm">Serving Tirupur & Surroundings</p>
+                    <p className="text-white/60 text-sm">Serving Customers All Over India</p>
                   </div>
                 </div>
               </div>
